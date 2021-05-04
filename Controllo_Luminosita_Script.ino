@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 
 //Sostituire i dati relativi alla propria rete wireless
-const char* ssid     = "NETGEAR07";
-const char* password = "magicalsheep499";
+const char* ssid     = "********";
+const char* password = "********";
 
 //Impostiamo il server con la relativa porta
 WiFiServer server(80);
